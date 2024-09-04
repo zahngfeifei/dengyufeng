@@ -14,7 +14,11 @@ from mne.preprocessing import ICA
 import numpy as np
 import scipy.io as sio
 import pandas as pd
-
+"""
+  * @author: dengyufeng
+  * @Created on 2024/9/2 10：11
+  * @Email: 3087178834@qq.com
+ """
 # 提取事件有标注
 class AnnotationEventProcessor:
     def __init__(self, root, raw_list, file_names, save_path):
