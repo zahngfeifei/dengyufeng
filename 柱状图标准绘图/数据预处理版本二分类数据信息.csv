@@ -1,0 +1,289 @@
+作者,论文名称,发表时间,数据集名称,被试人数,运动想象动作,特征提取方法,方法类型,对应分类器,平均准确率,被试人,估计1标准差
+Suraj,Classification of Two Class Motor Imagery Tasks Using Hybrid GA-PSO Based 𝐾-Means Clustering,2015年,自采集,9人,左手运动想象-右手运动想象,其他方法,时域特征提取方法,混合遗传算法-粒子群优化（GA-PSO）基的K-means聚类,0.6042,9,0.163007280001027
+Lin Yao,Performance Variation of a Somatosensory BCI Based on Imagined Sensation: A Large,2022年,自采集,106人,"想象触觉感觉（Sensory Imagery, SI）",CSP,空间域特征提取方法,"线性判别分析（Linear Discriminative Analysis, LDA）",0.789,106,0.0396302485959095
+Md. Humaun Kabir,Investigating Feature Selection Techniques to Enhance the Performance of EEG-Based Motor Imagery Tasks Classification,2023年,BCI Competition III Dataset IVA + BCI Competition III Dataset IIIB,8人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,LDA,0.9005,8,0.105829904800108
+César J. Ortiz-Echeverri,"A New Approach for Motor Imagery Classification Based on Sorted Blind Source Separation, Continuous Wavelet Transform, and Convolutional Neural Network",2019年,BCI competition III dataset IVa,5人,脚部运动想象-右手运动想象,改良小波变换,频域特征提取方法,卷积神经网络,0.9466,5,0.100546944259883
+Xiong XiongImproved motor imagery classification using adaptive spatial filters based on particle swarm optimization algorithm,,2023年,BCI Competition IV datasets 2b,18人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,随机森林,0.8119,18,0.0921105585695799
+Muhammad Tariq Sadiq,An efficient hardware implementation for a motor imagery brain computer interface system,2019年,BCI competition III a,5人,右手运动想象-右脚运动想象,改良小波变换,频域特征提取方法,小二乘支持向量机 (LS-SVM) ,0.98,5,0.0626099033699941
+,,2019,BCI competition III b,1人,左手运动想象-右脚运动想象,改良小波变换,频域特征提取方法,小二乘支持向量机 (LS-SVM) ,1.0,1,0.0
+,,2019,BCI competition III c,1人,左手运动想象-右脚运动想象,改良小波变换,频域特征提取方法,小二乘支持向量机 (LS-SVM) ,0.97,1,0.17058722109232
+Lili Li,Relevant Feature Integration and Extraction for Single-Trial Motor Imagery Classification,2017年,"BCI competition IV, dataset IIa",9人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,LIBSVM,0.825,9,0.126655701279756
+,,2017,"BCI competition IV, dataset IIa",9人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,LIBSVM,0.893,9,0.103037749285288
+,,2017,"BCI competition III, dataset IIIa",3人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,LIBSVM,0.746,3,0.251319186162405
+,,2017,"BCI competition III, dataset IIIa",3人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,LIBSVM,0.867,3,0.196053564109404
+"Dai, Mengxi",Domain Transfer Multiple Kernel Boosting for Classification of EEG Motor Imagery Signals,2019年,BCI Competition III (BCIC III) IVa ,5人,右手运动想象-右脚运动想象,改良CSP,空间域特征提取方法,Domain Transfer Multiple Kernel Boosting (DTMKB),0.876,5,0.147393351274744
+,,2019年,自采集,5人,右手运动想象-右脚运动想象,改良CSP,空间域特征提取方法,Domain Transfer Multiple Kernel Boosting (DTMKB),0.76,5,0.190997382181013
+Mingai Li,Applying a Locally Linear Embedding Algorithm for Feature Extraction and Visualization of MI-EEG,2016年,BCI Competition 2003,5人,左手运动想象-右手运动想象,改良小波变换,频域特征提取方法,反向传播（BP）神经网络,0.932,5,0.112584190719657
+"Andrade, Joao",Separability of motor imagery of the self from interpretation of motor intentions of others at the single trial level: an EEG stud,2017年,自采集,20人,左手运动想象-右手运动想象,改良AR,时域特征提取方法,支持向量机（SVM）使用线性核,0.72,20,0.100399203184089
+Jamaloo,Discriminative Common Spatial Pattern Sub-bands Weighting Based on Distinction Sensitive Learning Vector Quantization Method in Motor Imagery Based Brain-computer Interface,2015年,"BCI competition III, IVa dataset",5人,右手运动想象-右脚运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM) 带有径向基函数 (RBF) 核,0.881,5,0.144802624285612
+,,2015年,"BCI competition III, IVa dataset",5人,右手运动想象-右脚运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM) 带有径向基函数 (RBF) 核,0.894,5,0.137669168661687
+,,2015年,"BCI competition III, IVa dataset",5人,右手运动想象-右脚运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM) 带有径向基函数 (RBF) 核,0.898,5,0.135348439222623
+,,2015年,"BCI competition III, IVa dataset",5人,右手运动想象-右脚运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM) 带有径向基函数 (RBF) 核,0.959,5,0.0886780694422246
+,,2015年,"BCI competition III, IVa dataset",5人,右手运动想象-右脚运动想象,其他方法,空间域特征提取方法,支持向量机 (SVM) 带有径向基函数 (RBF) 核,0.875,5,0.14790199457749
+"Kumar, Shiu",SPECTRA: a tool for enhanced brain wave signal recognition,2021年,BCI Competition III dataset IVa,5人,右手运动想象-左脚运动想象,混合特征提取方法,空间+时间+频率特征提取方法,支持向量机（SVM）分类器,0.9145,5,0.125051789271485
+,,2021年,BCI Competition IV dataset I,7人,右手运动想象-左手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,支持向量机（SVM）分类器,0.821,7,0.144893556989753
+,,2021年,BCI Competition IV dataset IIb,9人,右手运动想象-左手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,支持向量机（SVM）分类器,0.7974,9,0.133978953571074
+"Juan, J. V.",Exploring EEG-based motor imagery decoding: a dual approach using spatial features and spectro-spatial Deep Learning model IFNet,2021年,自采集,13人,休息控制-运动控制,CSP,空间域特征提取方法,CSP-LDA,0.642,13,0.132965004071343
+,,2021年,自采集,13人,休息控制-运动控制,卷积网络,深度学习特征提取,IFNet,0.654,13,0.131933549707652
+"Wei, Qingguo",Binary particle swarm optimization for frequency band selection in motor imagery based brain-computer interfaces,2015年,BCI Competition III (IVa数据集),5人,右手运动想象-右脚运动想象,CSP,空间域特征提取方法,Linear discriminant analysis (LDA,0.9049,5,0.13119145551445
+,,2015年,BCI Competition III (IVa数据集),5人,右脚运动想象-左手运动想象,CSP,空间域特征提取方法,Linear discriminant analysis (LDA,0.871,5,0.149905970528195
+"Lu, Yuyi",Feature Extraction and Classification of Motor Imagery EEG Signals in Motor Imagery for Sustainable Brain-Computer Interfaces,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,其他方法,频域特征提取方法,SVM-AdaBoost,0.75,9,0.144337567297406
+,,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,SVM-AdaBoost,0.7,9,0.152752523165195
+,,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,AR,时域特征提取方法,SVM-AdaBoost,0.727,9,0.148500280583349
+,,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,PSD,频域特征提取方法,SVM-AdaBoost,0.76,9,0.142361043360417
+,,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,混合特征提取方法,频域+空间特征提取方法,SVM-AdaBoost,0.736,9,0.146933091348863
+,,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,混合特征提取方法,时频特征提取方法,SVM-AdaBoost,0.7492,9,0.144491199270636
+,,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,混合特征提取方法,频域特征提取方法,SVM-AdaBoost,0.77,9,0.140277502750005
+,,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+时域特征提取方法,SVM-AdaBoost,0.73,9,0.147986485869487
+,,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,混合特征提取方法,频域+空间特征提取方法,SVM-AdaBoost,0.7012,9,0.152577324658679
+,,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,混合特征提取方法,时频特征提取方法,SVM-AdaBoost,0.669,9,0.156857684967404
+,,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,SVM-AdaBoost,0.8713,9,0.111622533567376
+,,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,混合特征提取方法,频域+空间特征提取方法,SVM-AdaBoost,0.85,9,0.119023807142381
+,,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,SVM-AdaBoost,0.83,9,0.125210933139953
+,,2024年,BCI竞赛II的Graz大学技术BCI实验室提供的dataset III,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,SVM-AdaBoost,0.9537,9,0.0700446762193007
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,其他方法,频域特征提取方法,SVM-AdaBoost,0.6913,9,0.153985681152502
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,SVM-AdaBoost,0.69,9,0.154164414397962
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,AR,时域特征提取方法,SVM-AdaBoost,0.7,9,0.152752523165195
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,PSD,频域特征提取方法,SVM-AdaBoost,0.67,9,0.156737572606783
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,频域+空间特征提取方法,SVM-AdaBoost,0.713,9,0.150787193679628
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,时频特征提取方法,SVM-AdaBoost,0.725,9,0.148838092495765
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,频域特征提取方法,SVM-AdaBoost,0.7,9,0.152752523165195
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+时域特征提取方法,SVM-AdaBoost,0.693,9,0.153749796747833
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,频域+空间特征提取方法,SVM-AdaBoost,0.672,9,0.156494941345293
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,时频特征提取方法,SVM-AdaBoost,0.667,9,0.15709551234838
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,SVM-AdaBoost,0.778,9,0.138530381745907
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,频域+空间特征提取方法,SVM-AdaBoost,0.76,9,0.142361043360417
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,SVM-AdaBoost,0.703,9,0.152312179421082
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,SVM-AdaBoost,0.8333,9,0.124235935935533
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,其他方法,频域特征提取方法,SVM-AdaBoost,0.74,9,0.146211414663075
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,SVM-AdaBoost,0.7,9,0.152752523165195
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,AR,时域特征提取方法,SVM-AdaBoost,0.7167,9,0.150200277407644
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,PSD,频域特征提取方法,SVM-AdaBoost,0.72,9,0.149666295470958
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,频域+空间特征提取方法,SVM-AdaBoost,0.76,9,0.142361043360417
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,时域+频域特征提取方法,SVM-AdaBoost,0.75,9,0.144337567297406
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,频域+时频域特征提取方法,SVM-AdaBoost,0.7412,9,0.145991841476768
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+时域特征提取方法,SVM-AdaBoost,0.7283,9,0.148278682816438
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,频域+空间特征提取方法,SVM-AdaBoost,0.7164,9,0.150248327777716
+2024年,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,时域+频域特征提取方法,SVM-AdaBoost,0.7016,9,0.152518647311658
+2024年,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,SVM-AdaBoost,0.852,9,0.118366661973153
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,频域+空间特征提取方法,SVM-AdaBoost,0.831,9,0.12491730598013
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,SVM-AdaBoost,0.7925,9,0.135172215258084
+,,2024年,BCI竞赛IV的数据集2b,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,SVM-AdaBoost,0.9285,9,0.08588606794275
+"Yang, Jun",A Two-Branch CNN Fusing Temporal and Frequency Features for Motor Imagery EEG Decoding,2022年,BCI competition IV 2b dataset,9人,左手运动想象 - 右手运动想象,卷积网络,深度学习特征提取,TBTF-CNN,0.813,9,0.129970509475547
+,,2022年,BCI competition IV 2b dataset,9人,左手运动想象 - 右手运动想象,改良小波变换,时频特征提取方法,CWT-CNN,0.7722,9,0.139804291779616
+,,2022年,BCI competition IV 2b dataset,9人,左手运动想象 - 右手运动想象,CSP,空间域特征提取方法,LDA,0.7129,9,0.150802884587796
+Tobon-Henao,Subject-Dependent Artifact Removal for Enhancing Motor Imagery Classifier Performance under Poor Skills,2022年,BCI Competition 2008 - Graz Dataset 2a(DBII),50人,左手运动想象-右手运动想象,其他方法,复杂网络特征,LDA,0.7465,50,0.0615203624826772
+"Ma, Jun",A large EEG dataset for studying cross-session variability in motor imagery brain-computer interface,2022年,SHU Dataset,23人,左手运动想象-右手运动想象,卷积网络,深度学习特征提取,卷积神经网络,0.688,23,0.0966067780500799
+,,2022年,SHU Dataset,23人,左手运动想象-右手运动想象,卷积网络,深度学习特征提取,卷积神经网络,0.789,23,0.0966067780500799
+Yilu Xu,Improved Transductive Support Vector Machine for a Small Labelled Set in Motor Imagery-Based Brain-Computer Interface,2019年,IV-a from BCI competition III,5人,右手运动想象-右脚运动想象,CSP,空间域特征提取方法,IST-TSVM,0.6807,5,0.208493409967797
+,,2019年,数据集 IIa from BCI competition IV,9人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,IST-TSVM,0.7022,9,0.152430370260581
+"Martin-Chinea, K",A New PLV-Spatial Filtering to Improve the Classification Performance in BCI Systems,2022年,BCI Competition IV 2a 数据集,9人,左手运动想象-右手运动想象,其他方法,空间域特征提取方法,支持向量机（SVM）-线性核,0.875,9,0.110239637961025
+"Huang, Weihai",Motor Imagery EEG Signal Classification Using Distinctive Feature Fusion with Adaptive Structural LASSO,2024年,BCI Competition IV Dataset IIa,9人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,支持向量机（SVM）-线性核,0.804,9,0.132322837535073
+,,2024年,SMR-BCI Dataset,14人,右手运动想象-脚部运动想象,CSP,空间域特征提取方法,支持向量机（SVM）-线性核,0.7781,14,0.111053523131866
+,,2024年,OpenBMI Dataset,54人,右手运动想象-左手运动想象,CSP,空间域特征提取方法,支持向量机（SVM）-线性核,0.6805,54,0.0634530666450934
+"Yang, Cheng",Exploring the Visual Guidance of Motor Imagery in Sustainable Brain-Computer Interfaces,2022年,自采集,17人,左手抓握想象-右手抓握想象,PSD,频域特征提取方法,支持向量机 (SVM),0.8523,17,0.0860522105536893
+,,2022年,自采集,17人,左手抓握想象-右手抓握想象,PSD,频域特征提取方法,支持向量机 (SVM),0.8652,17,0.0828282986594771
+,,2022年,自采集,17人,左手抓握想象-右手抓握想象,PSD,频域特征提取方法,支持向量机 (SVM),0.9057,17,0.0708799772606523
+"Wei, Qingguo",Intra- and Inter-Subject Common Spatial Pattern for Reducing Calibration Effort in MI-Based BCI,2023年,BCI competition IV 的数据集 IIa,9人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM),0.7691,9,0.140469526153461
+,,2023年,BCI competition III 的数据集 IVa,5人,左手运动想象-脚部运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM),0.8191,5,0.172148302344229
+"Miao, Minmin",Spatial-Frequency Feature Learning and Classification of Motor Imagery EEG Based on Deep Convolution Neural Network,2020年,BCI competition III dataset IVa,5人,右手运动想象-右脚运动想象,其他方法,深度学习特征提取,卷积神经网络（CNN）,0.9,5,0.134164078649987
+,,2020年,Finger Dataset（自收集的右手食指运动想象数据集）,5人,食指运动想象-休息状态,其他方法,深度学习特征提取,卷积神经网络（CNN）,0.9,5,0.134164078649987
+"Ozmen, Nurhan Gursel",A Biologically Inspired Approach to Frequency Domain Feature Extraction for EEG Classification,2018年,自采集,6人,左手运动想象-右手运动想象,PSD,频域特征提取方法,支持向量机 (SVM),0.8306,6,0.153135909135208
+"Sadiq, Muhammad Tariq",Identification of Motor and Mental Imagery EEG in Two and Multiclass Subject-Dependent Tasks Using Successive Decomposition Index,2020年,BCI competition IIIIVa,5人,右手运动想象-右脚运动想象,其他方法,时频特征提取方法,支持向量机 (SVM),0.9305,5,0.113727525252245
+,,2020年,BCI competition IIIIVb,1人,左手运动想象-右脚运动想象,其他方法,时频特征提取方法,支持向量机 (SVM),0.9952,1,0.0691155554126568
+"Rashid, M.",The classification of motor imagery response: an accuracy enhancement through the ensemble of random subspace k-NN,2021年,"BCI Competition III, dataset 1",1人,左手小指运动想象-舌头运动想象,CSP,空间域特征提取方法,Random Subspace k-NN (ERS-k-NN),0.9921,1,0.088530164350915
+,,2021年," BCI Competition III, dataset IVA",5人,右手运动想象-右脚运动想象,CSP,空间域特征提取方法,Random Subspace k-NN (ERS-k-NN),0.9357,5,0.109695496717049
+"Tibrewal, Navneet",Classification of motor imagery EEG using deep learning increases performance in inefficient BCI users,2022年,自采集,54人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,LDA,0.5256,54,0.0679521400202623
+,,2022年,自采集,54人,左手运动想象-右手运动想象,卷积网络,深度学习特征提取,Convolutional Neural Network (CNN),0.6942,54,0.0626995126686714
+"Huang, Junjie",Adaptive Time-Frequency Segment Optimization for Motor Imagery Classification,2024年,BCI Competition III Dataset IIIa (DS1),3人,左手运动想象-右手运动想象,其他方法,时频特征提取方法,支持向量机 (SVM),0.955,3,0.119687092035858
+,,2024年,BCI Competition III Dataset IIIa (DS1),3人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM),0.9461,3,0.130377388121305
+,,2024年,BCI Competition III Dataset IIIa (DS1),3人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM),0.9028,3,0.171028418691164
+,,2024年,Chinese Academy of Medical Sciences Autonomous Dataset (DS2),9人,右手反弹球想象-脚部抬起想象,其他方法,时频特征提取方法,支持向量机 (SVM),0.8372,9,0.12306103273489
+,,2024年,Chinese Academy of Medical Sciences Autonomous Dataset (DS2),9人,右手反弹球想象-脚部抬起想象,其他方法,空间域特征提取方法,支持向量机 (SVM),0.8167,9,0.128970758959799
+,,2024年,Chinese Academy of Medical Sciences Autonomous Dataset (DS2),9人,右手反弹球想象-脚部抬起想象,改良CSP,空间域特征提取方法,支持向量机 (SVM),0.7981,9,0.133805991395503
+,,2024年,BCI Competition IV Dataset 1 (DS3),7人,左手运动想象-右手运动想象,其他方法,时频特征提取方法,支持向量机 (SVM),0.8467,7,0.136171693093682
+,,2024年,BCI Competition IV Dataset 1 (DS3),7人,左手运动想象-右手运动想象,其他方法,空间域特征提取方法,支持向量机 (SVM),0.8517,7,0.13432748362544
+,,2024年,BCI Competition IV Dataset 1 (DS3),7人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM),0.77,7,0.159059737205869
+"Kumar, Shiu",An improved discriminative filter bank selection approach for motor imagery EEG signal classification using mutual information,2017年,BCI Competition III dataset IVa,5人,左手运动想象-右手运动想象,其他方法,频域特征提取方法,支持向量机 (SVM),0.9168,5,0.12351336769759
+,,2017年,BCI Competition IV dataset I,5人,左手运动想象-右手运动想象,其他方法,频域特征提取方法,支持向量机 (SVM),0.8234,5,0.170535884786751
+,,2017年,BCI Competition IV dataset IIb,5人,左手运动想象-右手运动想象,其他方法,频域特征提取方法,支持向量机 (SVM),0.8102,5,0.175371582646676
+"Fei, Keling",Recognition of motor imagery electroencephalogram based on flicker noise spectroscopy and weighted filter bank common spatial pattern,2023年,BCI competition Ⅳ-2b,9人,左手运动想象-右手运动想象,其他方法,空间+时域特征提取方法,支持向量机 (SVM),0.8634,9,0.114474858957473
+"Molla, Md Khademul Islam",Discriminative Feature Selection-Based Motor Imagery Classification Using EEG Signal,2020年,BCI Competition III dataset 4a,5人,右手运动想象-右脚运动想象,CSP,空间域特征提取方法,支持向量机 (SVM),0.922,5,0.119929979571415
+,,2020年,BCI Competition IV dataset 2b,9人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,支持向量机 (SVM),0.8152,9,0.129378411388196
+"Jia, Tianyu",5 Hz rTMS improves motor-imagery based BCI classification performance,2021年,自采集,11人,右臂屈曲运动想象-休息,CSP,空间域特征提取方法,LDA,0.7071,11,0.137215686222292
+"Hu, Hai",Learning Optimal Time-Frequency-Spatial Features by the CiSSA-CSP Method for Motor Imagery EEG Classification,2022年,BCI Competition III dataset IVa,5人,右手运动想象-右脚运动想象,混合特征提取方法,空间+时间+频率特征提取方法,支持向量机 (SVM),0.963,5,0.0844168229679369
+,,2022年,自采集,20人,右手运动想象-右脚运动想象,混合特征提取方法,空间+时间+频率特征提取方法,支持向量机 (SVM),0.937,20,0.0543281694887652
+"Huang, Binwen",Exploiting Asymmetric EEG Signals with EFD in Deep Learning Domain for Robust BCI,2022年,BCI Competition IIIIVa,5人,右手运动想象-右脚运动想象,其他变换,时频特征提取方法,AlexNet,0.9863,5,0.0519852094349923
+,,2022年,BCI Competition IIIIVb,1人,左手运动想象-右脚运动想象,其他变换,时频特征提取方法,AlexNet,0.9633,1,0.188024227162353
+"Suemitsu, Kento",Effects of Data Including Visual Presentation and Rest Time on Classification of Motor Imagery of Using Brain-Computer Interface Competition Datasets,2023年,BCI competition IV 2b dataset,9人,左手运动想象-右手运动想象,混合特征提取方法,频域+空间特征提取方法,LDA,0.7,9,0.152752523165195
+"Lin, Ruijing",A Fused Multidimensional EEG Classification Method Based on an Extreme Tree Feature Selection,2022年,IMUT 数据集,6人,左手运动想象-右手运动想象,AR,时域特征提取方法,支持向量机 (SVM),0.608,6,0.199305460704584
+,,2022年,IMUT 数据集,6人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,支持向量机 (SVM),0.622,6,0.197954540235883
+,,2022年,IMUT 数据集,6人,左手运动想象-右手运动想象,DWT,频域特征提取方法,支持向量机 (SVM),0.609,6,0.199214708292335
+,,2022年,IMUT 数据集,6人,左手运动想象-右手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,支持向量机 (SVM),0.765,6,0.173096793731138
+,,2022年,第二届BCI比赛（2003年）数据集III,1人,左手运动想象-右手运动想象,AR,时域特征提取方法,支持向量机 (SVM),0.622,1,0.484887615845156
+,,2022年,第二届BCI比赛（2003年）数据集III,1人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,支持向量机 (SVM),0.42,1,0.493558507170123
+,,2022年,第二届BCI比赛（2003年）数据集III,1人,左手运动想象-右手运动想象,DWT,频域特征提取方法,支持向量机 (SVM),0.451,1,0.497593207349136
+,,2022年,第二届BCI比赛（2003年）数据集III,1人,左手运动想象-右手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,支持向量机 (SVM),0.709,1,0.454223513261918
+,,2022年,第四届BCI比赛（2008年）数据集2b,5人,左手运动想象-右手运动想象,AR,时域特征提取方法,支持向量机 (SVM),0.586,5,0.220274374360705
+,,2022年,第四届BCI比赛（2008年）数据集2b,5人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,支持向量机 (SVM),0.634,5,0.215427017804174
+,,2022年,第四届BCI比赛（2008年）数据集2b,5人,左手运动想象-右手运动想象,DWT,频域特征提取方法,支持向量机 (SVM),0.652,5,0.213023942316351
+,,2022年,第四届BCI比赛（2008年）数据集2b,5人,左手运动想象-右手运动想象,混合特征提取方法,空间+时间+频率特征提取方法,支持向量机 (SVM),0.725,5,0.199687255477159
+"Wu, Wei",Probabilistic Common Spatial Patterns for Multichannel EEG Analysis,2015年,BCI Competition 3 Data Set 3a,3人,左手运动想象-右手运动想象,混合特征提取方法,空间+时域特征提取方法,FLDA,0.9333,3,0.144049887191903
+,,2015年,BCI Competition 3 Data Set 3a,3人,左手运动想象-右手运动想象,混合特征提取方法,频域+空间特征提取方法,FLDA,0.9333,3,0.144049887191903
+,,2015年,BCI Competition 3 Data Set 4a,5人,右手运动想象-右脚运动想象,混合特征提取方法,空间+时域特征提取方法,FLDA,0.8833,5,0.143583501837781
+,,2015年,BCI Competition 3 Data Set 4a,5人,左手运动想象-右手运动想象,混合特征提取方法,频域+空间特征提取方法,FLDA,0.9068,5,0.130010584184519
+"Kabir, Md Humaun",Exploring Feature Selection and Classification Techniques to Improve the Performance of an Electroencephalography-Based Motor Imagery Brain-Computer Interface System,2024年,BCI Competition III Dataset IVA,5人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,Relief-F + LDA,0.9143,5,0.125184272175062
+,,2024年,BCI Competition III Dataset IIIa (DS1),3人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,Relief-F + LDA,0.9189,3,0.157610056785727
+"Park, Yongkoo",Selective Feature Generation Method Based on Time Domain Parameters and Correlation Coefficients for Filter-Bank-CSP BCI Systems,2019年,BCI Competition III Dataset IVa,5人,右手运动想象-右脚运动想象,改良CSP,空间+时域特征提取方法,支持向量机(SVM)分类器,0.8613,5,0.154571866780472
+,,2019年,BCI Competition IV Dataset I,4人,右手运动想象-右脚运动想象,改良CSP,空间+时域特征提取方法,支持向量机(SVM)分类器,0.7969,4,0.201153169251692
+"Wang, Pengpai",Neural Decoding of Chinese Sign Language With Machine Learning for Brain-Computer Interfaces,2021年,自采集,20人,基于中国手语的手语想象如（我-你）,混合特征提取方法,时域+频域+熵特征+脑网络特征提取方法,SNN,0.834,20,0.0831997596150374
+"Khare, Smith K.",An Intelligent Motor Imagery Detection System Using Electroencephalography with Adaptive Wavelets,2022年,BCI competition-III IV-a dataset,5人,右手运动想象-右脚运动想象,改良小波变换,时频特征提取方法,LSSVM,0.9293,5,0.114631156323227
+"Tang, Yuan",Motor Imagery EEG Decoding Based on New Spatial-Frequency Feature and Hybrid Feature Selection Method,2022年,BCI competition IV (2008) 数据集IIa,9人,右手运动想象-右脚运动想象,混合特征提取方法,频域+空间特征提取方法,支持向量机(SVM)分类器,0.8355,9,0.123576224789938
+,,2022年,BCI competition IV (2008) 数据集IIb,9人,右手运动想象-右脚运动想象,混合特征提取方法,频域+空间特征提取方法,支持向量机(SVM)分类器,0.7972,9,0.134028255727415
+,,2022年,自采集,6人,右手运动想象-右脚运动想象,混合特征提取方法,频域+空间特征提取方法,支持向量机(SVM)分类器,0.7599,6,0.174380804562888
+"Sadiq, Muhammad Tariq",Motor Imagery EEG Signals Decoding by Multivariate Empirical Wavelet Transform-Based Framework for Robust Brain-Computer Interfaces,2019年,BCI competition III Data Set IVb,5人,右手运动想象-右脚运动想象,混合特征提取方法,时频+熵特征特征提取方法,LS-SVM,0.914,5,0.125382614424808
+,,2019年,BCI competition III Data Set IVa,1人,左手运动想象-右脚运动想象,混合特征提取方法,时频+熵特征特征提取方法,LS-SVM,1.0,1,0.0
+,,2019年,BCI competition III Data Set IVc,1人,左手运动想象-右脚运动想象,混合特征提取方法,时频+熵特征特征提取方法,LS-SVM,0.97,1,0.17058722109232
+"Padfield, Natasha",EEG-Based Brain-Computer Interfaces Using Motor-Imagery: Techniques and Challenges,2019年,数据集 III（BCI 2003 competition）,1人,左手运动想象-右手运动想象,改良AR,时域特征提取方法,LDA,0.622,1,0.484887615845156
+,,2019年,数据集 III（BCI 2003 competition）,1人,左手运动想象-右手运动想象,PSD,频域特征提取方法,LDA,0.694,1,0.460829686543738
+,,2019年,数据集 III（BCI 2003 competition）,1人,左手运动想象-右手运动想象,改良小波变换,时频特征提取方法,k-最近邻（k-NN）,0.928,1,0.258487910742456
+,,2019年,数据集 III（BCI 2003 competition）,1人,左手运动想象-右手运动想象,其他变换,时频特征提取方法,循环神经网络长短期记忆（LSTM）分类器,0.9143,1,0.279920542297274
+"Zhang, Shaorong",The CSP-Based New Features Plus Non-Convex Log Sparse Feature Selection for Motor Imagery EEG Classification,2020年,BCI competition IV (2008) 数据集I,7人,左手运动想象-右脚运动想象,改良CSP,空间域特征提取方法,Fisher线性判别分析（FLDA）,0.8886,7,0.118917762700592
+,,2020年,BCI competition IV (2008) 数据集I,7人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,Fisher线性判别分析（FLDA）,0.85,7,0.134960311626366
+,,2020年,BCI competition IV (2008) 数据集I,7人,右手运动想象-脚运动想象,改良CSP,空间域特征提取方法,Fisher线性判别分析（FLDA）,0.8886,7,0.118917762700592
+,,2020年,数据集3：BCI competition IV (2008) 数据集IIb,9人,左手运动想象-右脚运动想象,改良CSP,空间域特征提取方法,Fisher线性判别分析（FLDA）,0.7819,9,0.137651891862529
+,,2020年,数据集3：BCI competition IV (2008) 数据集IIb,9人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,Fisher线性判别分析（FLDA）,0.7875,9,0.136358901432946
+,,2020年,数据集3：BCI competition IV (2008) 数据集IIb,9人,右手运动想象-脚运动想象,改良CSP,空间域特征提取方法,Fisher线性判别分析（FLDA）,0.8153,9,0.129351334657891
+,,2020年,数据集4：David Steyrl (2016) 提供的数据集,14人,左手运动想象-右脚运动想象,改良CSP,空间域特征提取方法,Fisher线性判别分析（FLDA）,0.794,14,0.108088588006056
+,,2020年,数据集4：David Steyrl (2016) 提供的数据集,14人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,Fisher线性判别分析（FLDA）,0.8083,14,0.105204260505796
+,,2020年,数据集4：David Steyrl (2016) 提供的数据集,14人,右手运动想象-脚运动想象,改良CSP,空间域特征提取方法,Fisher线性判别分析（FLDA）,0.8012,14,0.106663208277269
+"Zhao, Xianghong",Transferring Common Spatial Filters With Semi-Supervised Learning for Zero-Training Motor Imagery Brain-Computer Interface,2019年,BCI Competition III (数据集IVa),5人,右手运动想象-右脚运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM),0.802,5,0.178211110764733
+,,2019年,GigaDataset,52人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM),0.744,52,0.0605208165077871
+"Phang, Chun-Ren",Global Cortical Network Distinguishes Motor Imagination of the Left and Right Foot,2020年,"Phang, Chun-Ren",12人,左脚运动想象-右脚运动想象 ,其他方法,时域特征提取方法,支持向量机 (SVM),0.8626,12,0.0993819400092391
+,,2020年,"Phang, Chun-Ren",12人,左脚运动想象-右脚运动想象 ,其他方法,时域特征提取方法,支持向量机 (SVM),0.8148,12,0.112138664161831
+,,2020年,"Phang, Chun-Ren",12人,左脚运动想象-右脚运动想象 ,其他方法,频域特征提取方法,支持向量机 (SVM),0.7355,12,0.127324961548525
+"Cantillo-Negrete, Jessica",An approach to improve the performance of subject-independent BCIs-based on motor imagery allocating subjects by gender,2014年,自采集,32人,左手运动想象-右手运动想象,混合特征提取方法,频域+空间特征提取方法,LDA,0.58,32,0.0872496418330757
+"Moraes, C. P. A.",Independent Vector Analysis for Feature Extraction in Motor Imagery Classification,2024年,BCI Competition III Dataset 4a (DS4a),5人,右手握拳运动想象-右脚运动想象,混合特征提取方法,空间+时域特征提取方法,EEG-Inception,0.867,5,0.151862437752066
+"Chang, Hongli",Automated Selection of a Channel Subset Based on the Genetic Algorithm in a Motor Imagery Brain-Computer Interface System,2019年,BCI Competition III dataset I,2人,左手小指运动想象-舌头运动想象,其他变换,时域特征提取方法,Bayesian linear discriminant analysis (BLDA),0.97,2,0.120623380818148
+"Qi, Yingji",Channel and Feature Selection for a Motor Imagery-Based BCI System Using Multilevel Particle Swarm Optimization,2020年,BCI Competition III dataset I,2人,左手小指运动想象-舌头运动想象,其他变换,频域特征提取方法,Bayesian Linear Discriminant Analysis,0.99,2,0.0703562363973515
+"Alzahrani, Saleh I",The Influence of Smoothing Filtering Methods on the Performance of an EEG-Based Brain-Computer Interface,2023年,P300 SPELLER PARADIGM,1人,目标字符-非目标字符,其他方法,时域特征提取方法,LDA,0.9405,1,0.236558132390328
+,,2023年,MOTOR IMAGERY 数据集,9人,左手运动想象-右手运动想象,PSD,频域特征提取方法,LDA,0.9012,9,0.0994644325039526
+"Wang, Xuying",An Unsupervised Deep-Transfer-Learning-Based Motor Imagery EEG Classification Scheme for Brain-Computer Interface,2022年,"""two class motor imagery (002-2014)"" from BNCI Horizon 2020",14人,右手运动想象-脚部运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM),0.685,14,0.124147090179351
+,,2022年,"""two class motor imagery (002-2014)"" from BNCI Horizon 2020",14人,右手运动想象-脚部运动想象,卷积网络,深度学习特征提取,支持向量机 (SVM),0.6775,14,0.124926764260391
+,,2022年,"""two class motor imagery (002-2014)"" from BNCI Horizon 2020",14人,右手运动想象-脚部运动想象,混合特征提取方法,空间+深度学习特征提取方法,支持向量机 (SVM),0.795,14,0.107893796988388
+"Batistic, Luka",Detection of motor imagery based on short-term entropy of time-frequency representations,2023年,自采集,15人,右方向运动想象-上方向运动想象,混合特征提取方法,时频+熵特征特征提取方法,sLDA,0.9421,15,0.0603034493209136
+,,2023年,BNCI Horizon 2020项目,15人,肘部伸展-肘部屈曲,混合特征提取方法,时频+熵特征特征提取方法,sLDA,0.7686,15,0.108889558728098
+"Shi, Bin",Feature optimization based on improved novel global harmony search algorithm for motor imagery electroencephalogram classification,2022年,Motor Imagery EEG Classification for Patients with Amyotrophic Lateral Sclerosis Using Fractal Dimension and Fisher's Criterion-Based Channel Selection,7人,右手运动想象-左脚运动想象,CSP,空间域特征提取方法,支持向量机 (SVM),0.713,7,0.170976606586983
+,,2022年,BCI Competition III dataset IVa,5人,右手运动想象-右脚运动想象,CSP,空间域特征提取方法,支持向量机 (SVM),0.75,5,0.193649167310371
+,,2022年,BCI Competition III Dataset IIIa (DS1),3人,右手运动想象-左脚运动想象,CSP,空间域特征提取方法,支持向量机 (SVM),0.902,3,0.171654692138996
+"Suwannarat, Arpa",Comparison of EEG measurement of upper limb movement in motor imagery training system,2018年,自采集,10人,手开闭运动想象,CSP,空间域特征提取方法,支持向量机 (SVM),0.6402,10,0.151770866769614
+,,2018年,自采集,10人,手腕屈伸运动想象,CSP,空间域特征提取方法,支持向量机 (SVM),0.6871,10,0.146626597178002
+"Sadiq, Muhammad Tariq",Motor imagery BCI classification based on novel two-dimensional modelling in empirical wavelet transform,2020年,BCI competition III 数据集 IVa,5人,右手运动想象-右脚运动想象,改良小波变换,空间域特征提取方法,CFNN,0.953,5,0.0946477680666586
+"Xie, Yu",Classification of Motor Imagery EEG Signals Based on Data Augmentation and Convolutional Neural Networks,2023年,2008 BCI Competition IV Data Set 2a,9人,左手运动想象-右手运动想象,混合特征提取方法,时域+频域+空间特征+深度学习特征提取方法,CNN模型,0.9761,9,0.0509125502973263
+"Ma, R.",A New Compound-Limbs Paradigm: Integrating Upper-Limb Swing Improves Lower-Limb Stepping Intention Decoding From EEG,2023年,自采集,9人,左腿与右臂运动想象-右腿与左臂运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM),0.737,9,0.146754140581374
+"Wang, Hongtao",Diverse Feature Blend Based on Filter-Bank Common Spatial Pattern and Brain Functional Connectivity for Multiple Motor Imagery Detection,2020年,由安徽大学的智能信息处理与人类-计算机交互实验室采集共享,6人,左手运动想象-右手运动想象,混合特征提取方法,空间+复杂网络特征提取方法,"多核关联向量机 (Multi-Kernel Relevance Vector Machine, MK-RVM)",0.8381,6,0.15038195259627
+"Chen, Zhitang",Recognizing Motor Imagery Between Hand and Forearm in the Same Limb in a Hybrid Brain Computer Interface Paradigm: An Online Study,2019年,自采集,12人,握紧右手运动想象-抬起右前臂运动想象,混合特征提取方法,频域+空间特征提取方法,支持向量机 (SVM),0.7842,12,0.11875407361434
+"Jin, Jing",Classification Scheme for Arm Motor Imagery,2023年,自采集,12人,休息与抓握想象,改良AR,时域特征提取方法,支持向量机(SVM)分类器,0.918,12,0.0792022726946645
+,,2023年,自采集,12人,休息与肘部弯曲想象,改良AR,时域特征提取方法,支持向量机(SVM)分类器,0.9,12,0.0866025403784439
+"Zolfaghari, Sepideh",Speed Classification of Upper Limb Movements Through EEG Signal for BCI Application,2021年,自采集,10人,手腕的屈曲-伸展运动想象,混合特征提取方法,频域+空间特征提取方法,CNN,0.8125,10,0.123427610363322
+,,2021年,自采集,10人,手腕的桡-尺偏斜的运动想象,混合特征提取方法,频域+空间特征提取方法,CNN,0.775,10,0.132051126462443
+,,2021年,自采集,10人,手腕的旋前-旋后,混合特征提取方法,频域+空间特征提取方法,CNN,0.7937,10,0.12796105266838
+,,2021年,自采集,10人,肩部的屈曲-伸展,混合特征提取方法,频域+空间特征提取方法,CNN,0.8375,10,0.116659225953201
+,,2021年,自采集,10人,肩部的垂直外展运动想象-内收运动想象,混合特征提取方法,频域+空间特征提取方法,CNN,0.8312,10,0.118451070066927
+,,2021年,自采集,10人,肩部的水平外展运动想象-内收运动想象,混合特征提取方法,频域+空间特征提取方法,CNN,0.7875,10,0.129361412329953
+,,2021年,自采集,10人,肩部的水平外展运动想象-内收运动想象,混合特征提取方法,频域+空间特征提取方法,CNN,0.8187,10,0.121831978560639
+,,2021年,自采集,10人,肘部的屈曲运动想象-伸展运动想象,混合特征提取方法,频域+空间特征提取方法,CNN,0.8062,10,0.124996623954409
+"Batistic, Luka",Motor Imagery Classification Based on EEG Sensing with Visual and Vibrotactile Guidance,2023年,ULM 数据集,15人,肘部屈曲运动想象-肘部伸展运动想象,ICA,时频特征提取方法,ResNet-101,0.723,15,0.115548258316601
+,,2023年,KGU 数据集,15人,向上运动想象-向右运动想象,ICA,时频特征提取方法,ResNet-101,0.7099,15,0.117172804011853
+"Cheng, Liwei",A Motor Imagery EEG Feature Extraction Method Based on Energy Principal Component Analysis and Deep Belief Networks,2020年,BCI Competition II Data Set III,1人,左手运动想象-右手运动想象,卷积网络,深度学习特征提取,Softmax分类器。,0.9625,1,0.189983551919633
+,,2020年,BCI Competition IV Data Sets 2b,9人,左手运动想象-右手运动想象,卷积网络,深度学习特征提取,Softmax分类器。,0.9171,9,0.0919103367418486
+,,2020年,自采集,10人,左手运动想象-右手运动想象,卷积网络,深度学习特征提取,Softmax分类器。,0.9769,10,0.047504094560364
+"Degirmenci, Murside",Statistically significant features improve binary and multiple Motor Imagery task predictions from EEGs,2023年,BCI Competition IV Dataset IIa,9人,左手运动想象-右手运动想象,混合特征提取方法,时域+频域+时频域+非线性特征提取方法,决策树（Coarse Tree）,0.566,9,0.16520828604455
+"Feng, Jiankui",Towards correlation-based time window selection method for motor imagery BCIs,2018年,BCI Computation IV Dataset I,7人,左手运动想象-右手运动想象,混合特征提取方法,空间+时域特征提取方法,支持向量机(SVM)分类器,0.8293,7,0.142207850898405
+,,2018年,自采集,7人,左手运动想象-右手运动想象,混合特征提取方法,空间+时域特征提取方法,支持向量机(SVM)分类器,0.7167,7,0.17031110608866
+"Hashem, Hend A","A Fast, Open EEG Classification Framework Based on Feature Compression and Channel Ranking",2023年,BCI Competition III 的 Dataset IVa,5人,右手运动想象-右脚运动想象,混合特征提取方法,时域+频域特征提取方法,LDA,0.9346,5,0.110564768348692
+,,2023年,BCI Competition III 的 Dataset IVa,5人,右手运动想象-右脚运动想象,混合特征提取方法,时域+频域特征提取方法,LDA,0.7507,5,0.193468090392188
+,,2023年,BCI Competition IV 的 Dataset I,4人,左手运动想象-脚部运动想象,混合特征提取方法,时域+频域特征提取方法,LDA,0.7007,4,0.228975713777684
+,,2023年,BCI Competition IV 的 Dataset I,4人,左手运动想象-脚部运动想象,混合特征提取方法,时域+频域特征提取方法,LDA,0.6888,4,0.231492202892452
+,,2023年,BCI Competition IV 的 Dataset I,4人,左手运动想象-脚部运动想象,混合特征提取方法,时域+频域特征提取方法,LDA,0.595,4,0.245446022579304
+"Hekmatmanesh, Amin",A combination of CSP-based method with soft margin SVM classifier and generalized RBF kernel for imagery-based brain computer interface applications,2020年,"BCI Competition III, Dataset IVa",5人,右手运动想象-脚部运动想象,改良CSP,空间域特征提取方法,SSVM 与 GRBF 核 (SSVM-GRBF),0.927,5,0.116336580661458
+,,2020年,"ENOBIO32, 32 channels EEG data (Lappeenranta University of Technology 实验室记录)",9人,右手运动想象-脚部运动想象,改良CSP,空间域特征提取方法,SSVM 与 GRBF 核 (SSVM-GRBF),0.7803,9,0.138014455764605
+"Huang, Shoulin",Spectrum-Weighted Tensor Discriminant Analysis for Motor Imagery-Based BCI,2020年,"国际BCI数据集IVa，BCI竞赛III的一部分，涉及5名健康被试（aa, al, av, aw, ay）",5人,右手运动想象-右脚运动想象,混合特征提取方法,空间-光谱-时间信息特征提取方法,空间-光谱-时间信息,0.8671,5,0.151814090255154
+"Jiang, Jing",Temporal Combination Pattern Optimization Based on Feature Selection Method for Motor Imagery BCIs,2020年,BCI Competition IV Dataset I,4人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,支持向量机(SVM)分类器,0.746,4,0.217648799675073
+,,2020年,BCI Competition III Dataset IVa,5人,右手运动想象-脚部运动想象,CSP,空间域特征提取方法,支持向量机(SVM)分类器,0.869,5,0.150890026178008
+,,2020年,BCI Competition III Dataset IIIa,3人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,支持向量机(SVM)分类器,0.788,3,0.235977400047829
+"Jiang, Qin",An Adaptive CSP and Clustering Classification for Online Motor Imagery EEG,2020年,BCI Competition III Dataset IVa,5人,右手运动想象-右脚运动想象,CSP,空间域特征提取方法,支持向量机(SVM)分类器（100样本）,0.9046,5,0.131376436243339
+"Jin, Jing",Motor Imagery EEG Classification Based on Riemannian Sparse Optimization and Dempster-Shafer Fusion of Multi-Time-Frequency Patterns,2023年,BCI Competition III 数据集 IIa,9人,左手运动想象-右手运动想象,改良PSD,空间域特征提取方法,支持向量机 (SVM) 与 Dempster-Shafer 理论融合,0.893,9,0.103037749285288
+,,2023年,BCI Competition III 数据集 IIIa,3人,左手运动想象-右手运动想象,改良PSD,空间域特征提取方法,支持向量机 (SVM) 与 Dempster-Shafer 理论融合,0.968,3,0.101613647377374
+"Juan, Javier V",Exploring EEG-based motor imagery decoding: a dual approach using spatial features and spectro-spatial Deep Learning model IFNet,2024年,自采集,13人,静止状态下的放松想象-静止状态下的踩踏运动想象,CSP,空间域特征提取方法,LDA,0.671,13,0.130312936957393
+"Kabir, M. H",Exploring Feature Selection and Classification Techniques to Improve the Performance of an Electroencephalography-Based Motor Imagery Brain-Computer Interface System,2024年,BCI Competition III Dataset IVA,5人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM) 与 Dempster-Shafer 理论融合,0.9143,5,0.125184272175062
+,,2024年,BCI Competition III Dataset IIIB,3人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM) 与 Dempster-Shafer 理论融合,0.7611,3,0.246188809656329
+,,2024年,BCI Competition III Dataset IIIA,3人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM) 与 Dempster-Shafer 理论融合,0.9189,3,0.157610056785727
+"Khalaf, Aya",A probabilistic approach for calibration time reduction in hybrid EEG-fTCD brain-computer interfaces,2020年,自采集,21人,右臂运动想象-左臂运动想象,混合特征提取方法,频域+空间特征提取方法,支持向量机(SVM)分类器（使用90个训练试验）,0.9467,21,0.0490185144808037
+"Khan, Rabia Avais",A novel framework for classification of two-class motor imagery EEG signals using logistic regression classification algorithm,2023年,BCI Competition IV 数据集 1,7人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,逻辑回归分类器,0.9042,7,0.111241282162437
+,,2023年,BCI Competition III 数据集 4a,5人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,逻辑回归分类器,0.9542,5,0.0934904914951247
+"Kumar, Shiu",Brain wave classification using long short-term memory network based OPTICAL predictor,2019年,BCI Competition IV 数据集 1,7人,左手运动想象-右手运动想象,混合特征提取方法,空间+深度学习特征提取方法,支持向量机 (SVM) 分类器,0.8252,7,0.143549374283355
+,,2019年,GigaDB 数据集,52人,左手运动想象-右手运动想象,混合特征提取方法,空间+深度学习特征提取方法,支持向量机 (SVM) 分类器,0.6919,52,0.0640273964799444
+"Kwon, O. Yeon",Subject-Independent Brain-Computer Interfaces Based on Deep Convolutional Neural Networks,2020年,"大型运动想象（Motor Imagery, MI）基于脑电图（Electroencephalography, EEG）数据库",54人,左手运动想象-右手运动想象,卷积网络,深度学习特征提取,深度卷积神经网络（CNNs）的分类模型,0.7415,54,0.0595784186007229
+,,2020年,"大型运动想象（Motor Imagery, MI）基于脑电图（Electroencephalography, EEG）数据库",54人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,深度卷积神经网络（CNNs）的分类模型,0.6857,54,0.0631745832037138
+,,2020年,"大型运动想象（Motor Imagery, MI）基于脑电图（Electroencephalography, EEG）数据库",54人,左手运动想象-右手运动想象,混合特征提取方法,空间+时域特征提取方法,深度卷积神经网络（CNNs）的分类模型,0.6968,54,0.0625492043351709
+,,2020年,"大型运动想象（Motor Imagery, MI）基于脑电图（Electroencephalography, EEG）数据库",54人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,深度卷积神经网络（CNNs）的分类模型,0.7059,54,0.0620043591657519
+,,2020年,"大型运动想象（Motor Imagery, MI）基于脑电图（Electroencephalography, EEG）数据库",54人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,深度卷积神经网络（CNNs）的分类模型,0.7102,54,0.0617365909867614
+"Lee, David",Improving the Accuracy and Training Speed of Motor Imagery Brain-Computer Interfaces Using Wavelet-Based Combined Feature Vectors and Gaussian Mixture Model-Supervectors,2017年,BCI Competition II (Dataset III),1人,左手运动想象-右手运动想象,改良小波变换,时频特征提取方法,支持向量机 (SVM) 分类器,0.975,1,0.15612494995996
+,,2017年,BCI Competition III (Dataset IIIb),2人,左手运动想象-右手运动想象,改良小波变换,时频特征提取方法,支持向量机 (SVM) 分类器,0.831,2,0.264989622438314
+"Lee, Hyeon Kyu",Application of Continuous Wavelet Transform and Convolutional Neural Network in Decoding Motor Imagery Brain-Computer Interface,2019年,BCI competition IV dataset 2b,9人,左手运动想象-右手运动想象,改良小波变换,时频特征提取方法,一维卷积神经网络（1D CNN）,0.83,9,0.125210933139953
+,,2019年,BCI competition IV dataset 2b,9人,左手运动想象-右手运动想象,改良小波变换,时频特征提取方法,一维卷积神经网络（1D CNN）,0.825,9,0.126655701279756
+,,2019年,BCI competition IV dataset 2b,9人,左手运动想象-右手运动想象,改良小波变换,时频特征提取方法,一维卷积神经网络（1D CNN）,0.817,9,0.12888884099616
+,,2019年,BCI competition II dataset III,1人,左手运动想象-右手运动想象,改良小波变换,时频特征提取方法,一维卷积神经网络（1D CNN）,0.893,1,0.309113247855863
+,,2019年,BCI competition II dataset III,1人,左手运动想象-右手运动想象,改良小波变换,时频特征提取方法,一维卷积神经网络（1D CNN）,0.9,1,0.3
+,,2019年,BCI competition II dataset III,1人,左手运动想象-右手运动想象,改良小波变换,时频特征提取方法,一维卷积神经网络（1D CNN）,0.929,1,0.256824843035093
+"Li, Ming-Ai",A Novel MI-EEG Imaging With the Location Information of Electrodes,2020年,BCI2000 数据集,109人,双手拳头紧握-双脚运动想象,混合特征提取方法,空间+时频+深度学习特征提取方法,修改后的 VGG 网络 (mVGG),0.8862,109,0.0304175166820192
+,,2020年,BCI Competition IV 2b 数据集,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+时频+深度学习特征提取方法,修改后的 VGG 网络 (mVGG),0.9682,9,0.0584890873012508
+"Li, Yan",Transfer Learning Based on Hybrid Riemannian and Euclidean Space Data Alignment and Subject Selection in Brain-Computer Interfaces,2021年,BCI Competition IV 的数据集 2a,9人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,LDA,0.8,9,0.133333333333333
+,,2021年,BNCI Horizon 2020 European Coordination project 提供的数据集,14人,右手运动想象-双脚运动想象,改良CSP,空间域特征提取方法,LDA,0.77,14,0.11247221879202
+"Long, Taixue",Application of multi-task transfer learning: The combination of EA and optimized subband regularized CSP to classification of 8-channel EEG signals with small dataset,2023年, BCI Competition IV (2008) 的 Dataset 2a,9人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,"多任务迁移学习 (Multi-task transfer learning, MTL) 框架进行分类",0.7801,9,0.138059564439894
+,,2023年,自采集,10人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,"多任务迁移学习 (Multi-task transfer learning, MTL) 框架进行分类",0.5977,10,0.155066021423134
+"Ma, Pengfei",A brain functional network feature extraction method based on directed transfer function and graph theory for MI-BCI decoding tasks,2024年,内蒙古工业大学（Inner Mongolia University of Technology）**数据集,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+复杂网络特征提取方法,CDGL方法,0.8827,9,0.107259141024592
+,,2024年,BCI Competition IV 2a 数据集,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+复杂网络特征提取方法,CDGL方法,0.8077,9,0.131369161779569
+,,2024年,PhysioNet’s BCI2000 数据集,9人,左手运动想象-右手运动想象,混合特征提取方法,空间+复杂网络特征提取方法,CDGL方法,0.8184,9,0.128504837781826
+"Machado, Juliano",Executed Movement Using EEG Signals through a Naive Bayes Classifier,2014年,自采集,10人,左手运动想象-右手运动想象,混合特征提取方法,时域+频域+空间特征特征提取方法,LDA,0.6703,10,0.148659984528453
+"Malibari, Areej A",Arithmetic Optimization with RetinaNet Model for Motor Imagery Classification on Brain Computer Interface,2022年,Arithmetic Optimization with RetinaNet Model for Motor Imagery Classification on Brain Computer Interface,1人,右侧手运动想象-左侧手运动想象,混合特征提取方法,时域+频域+深度学习特征提取方法,ID3分类器,0.9643,1,0.185541127516246
+"Minh Tran Duc, Nguyen",Evaluating the Motor Imagery Classification Performance of a Double-Layered Feature Selection on Two Different-Sized Datasets,2021年,自采集,16人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,LDA,0.7273,16,0.111336963201805
+,,2021年,自采集,16人,右手运动想象-脚部运动想象,CSP,空间域特征提取方法,LDA,0.7657,16,0.105890128789231
+,,2021年,自采集,16人,脚部运动想象-左手运动想象,CSP,空间域特征提取方法,LDA,0.776,16,0.104230513766363
+,,2021年,BCI competition IV (2008) Dataset IIa,9人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,LDA,0.6013,9,0.163210263157683
+,,2021年,BCI competition IV (2008) Dataset IIa,9人,右手运动想象-脚部运动想象,CSP,空间域特征提取方法,LDA,0.6502,9,0.158968885844579
+,,2021年,BCI competition IV (2008) Dataset IIa,9人,脚部运动想象-左手运动想象,CSP,空间域特征提取方法,LDA,0.6474,9,0.159259829628608
+Feifei Qi,Single-Trial EEG Classification via Orthogonal Wavelet Decomposition-Based Feature Extraction,2021,BCI Competition III,5人,右手握拳运动想象-脚部运动想象,改良小波变换,频域特征提取方法,稀疏贝叶斯学习（RVM分类器）,0.8273,5,0.169041243488091
+Fan Wang,Improved Brain–Computer Interface Signal Recognition Algorithm Based on Few-Channel Motor Imagery,2022,BCI competition II (III),1人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM) ,0.9571,1,0.202631660902239
+,,2022,BCI competition IV (IIb),9人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,支持向量机 (SVM) ,0.866,9,0.113550771806174
+Javier Olias,EEG Signal Processing in MI-BCI Applications With Improved Covariance Matrix Estimators,2019,4a from BCI competition III,4人,左手运动想象-右脚运动想象,CSP,空间域特征提取方法, gLDA (Gaussian Shrinkage LDA),0.68,4,0.233238075793812
+,,2019,4a from BCI competition III,4人,左手运动想象-右脚运动想象,改良CSP,空间域特征提取方法, gLDA (Gaussian Shrinkage LDA),0.6856,4,0.232138234679253
+RUI ZHANG,Using Brain Network Features to Increase the Classification Accuracy of MI-BCI Inefficiency Subject,2018,自采数据,32人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,"支持向量机（Support Vector Machine, SVM）",0.581,32,0.0872208045709279
+,,2018,自采数据,32人,左手运动想象-右手运动想象,其他方法,空间域特征提取方法,"支持向量机（Support Vector Machine, SVM）",0.632,32,0.0852525659437885
+,,2018,自采数据,32人,左手运动想象-右手运动想象,其他方法,非线性特征提取方法,"支持向量机（Support Vector Machine, SVM）",0.594,32,0.0868122975159626
+Ranran Zhang,A New Motor Imagery EEG Classification Method FB-TRCSP+RF Based on CSP and Random Forest,2024,David Steyrl,14人,右手运动想象-脚部运动想象,改良CSP,空间域特征提取方法,RF（随机森林）,0.7273,14,0.119024220224289
+Yuan Yang,Time-frequency optimization for discrimination between imagination of right and left hand movements based on two bipolar electroencephalography channels,2014,BCI competition IV datasets IIa and IIb,9人,右手握拳运动想象-举左手运动想象,其他方法,时频域特征提取方法,Fisher’s linear discriminant analysis (LDA),0.78,9,0.138082101181387
+,,2014,BCI competition IV datasets IIa and IIb,9人,右手握拳运动想象-举左手运动想象,其他方法,时频域特征提取方法,Fisher’s linear discriminant analysis (LDA),0.7967,9,0.134151286903174
+José-Vicente Riquelme-Ros,On the Better Performance of Pianists with Motor Imagery-Based Brain-Computer Interface Systems,2020,自采数据,8人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,Fisher’s linear discriminant analysis (LDA),0.7469,8,0.15372068419702
+Samaneh Taheri,Convolutional neural network based features for motor imagery EEG signals classification in brain–computer interface system,2020年,BCI Competition III dataset Iva,5人,右手握拳运动想象-右脚运动想象,其他变换,频域特征提取方法,支持向量机(SVM),0.6729,5,0.209812101652884
+,,2020年,BCI Competition III dataset Iva,5人,右手握拳运动想象-右脚运动想象,其他变换,频域特征提取方法,支持向量机(SVM),0.8114,5,0.174945728727511
+,,2020年,BCI Competition III dataset Iva,5人,右手握拳运动想象-右脚运动想象,CSP,空间域特征提取方法,支持向量机(SVM),0.8501,5,0.159643346244057
+José-Vicente Riquelme-Ros,On the Better Performance of Pianists with Motor Imagery-Based Brain-Computer Interface Systems,2020,自采数据,8人,左右手的对立运动想象,CSP,空间域特征提取方法,Fisher’s linear discriminant analysis (LDA),0.7469,8,0.15372068419702
+Yongkoo Park,Optimal Channel Selection Using Correlation Coefficient for CSP Based EEG Classification,2020,BCI competition III dataset IVa,5人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,支持向量机(SVM),0.9821,5,0.0592951768696241
+,,2020,BCI competition IV dataset I,7人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,支持向量机(SVM),0.8929,7,0.116881863434837
+Yucun Zhong,Cross-Subject Motor Imagery Decoding by Transfer Learning of Tactile ERD,2024,自采数据,12人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,Linear Discriminant Analysis (LDA),0.6447,12,0.138161110664326
+Amardeep Singh,Small Sample Motor Imagery Classification Using Regularized Riemannian Features,2019,数据集 IVa 来自 BCI 竞赛 III,5人,右手运动想象-脚部运动想象,改良CSP,空间域特征提取方法,Minimum Distance to Riemannian Mean (MDRM),0.8721,5,0.149359693358014
+,,2019,数据集 IIIa 来自 BCI 竞赛 III,3人,右手运动想象-脚部运动想象,改良CSP,空间域特征提取方法,Minimum Distance to Riemannian Mean (MDRM),0.9093,3,0.165804613928564
+,,2019,数据集 IIa 来自 BCI 竞赛 IV,9人,左手运动想象-右手运动想象,改良CSP,空间域特征提取方法,Minimum Distance to Riemannian Mean (MDRM),0.8098,9,0.130819621362139
+Bin Shi,Multi-domain feature joint optimization based on multi-view learning for improving the EEG decoding,2023," BCI Competition IV dataset 1
+",7人,左手运动想象-右手运动想象,CSP,空间域特征提取方法,支持向量机(SVM),0.8286,7,0.14243897941625
+,,2023," BCI Competition IV dataset 1
+",7人,左手运动想象-脚部运动想象,改良CSP,空间域特征提取方法,支持向量机(SVM),0.8829,7,0.12153047236922
+,,2023,BCI Competition III dataset IVa,5人,右手运动想象-右脚运动想象,CSP,空间域特征提取方法,支持向量机(SVM),0.8357,5,0.165713916132593
+,,2023,BCI Competition III dataset IVa,5人,右手运动想象-右脚运动想象,改良CSP,空间域特征提取方法,支持向量机(SVM),0.8721,5,0.149359693358014
+ Suraj,Jaya Based ANFIS for Monitoring of Two Class Motor Imagery Task,2016,自采数据,9人,左手运动想象-右手运动想象,混合特征提取方法,时域+频域特征提取方法,Jaya优化算法与自适应神经模糊推理系统（ANFIS）,0.7079,9,0.151576013200565
+Sahar Selim,A CSP\AM-BA-SVM Approach for Motor Imagery BCI System,2018,"BCI Competition III dataset IVa
+",5人,左手运动想象-脚部运动想象,CSP,空间域特征提取方法,支持向量机(SVM),0.85,5,0.159687194226713
+Yinan Wang,Feature Extraction of Motor Imagery EEG via Discrete Wavelet Transform and Generalized Maximum Fuzzy Membership Difference Entropy: A Comparative Study,2023,I-b dataset from “BCI competition-III”,1人,想象光标向上-向下移动的动作,其他方法, 熵特征,"梯度提升决策树（Gradient Boosting Decision Tree, GBDT）",0.9371,1,0.24278301011397
+,,2023,I-b dataset from “BCI competition-III”,1人,想象光标向上-向下移动的动作,改良小波变换,频域特征提取方法,"梯度提升决策树（Gradient Boosting Decision Tree, GBDT）",0.9696,1,0.171685293487823
